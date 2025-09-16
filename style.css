@@ -1,0 +1,14 @@
+#myid{
+    color: blue;
+}
+.myclass{
+    color: brown;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 5px;
+    background-color: aqua;
+}
